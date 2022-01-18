@@ -1,6 +1,6 @@
 {
   "name": "cashcow-frontend",
-  "homepage": "https://github.com/AzazelIV/fronted.git",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "scripts": {
